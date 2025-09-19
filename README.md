@@ -11,3 +11,12 @@ Khodam dipilih secara acak dari daftar, dan juga memiliki tingkat kekuatan (1–
 3. Jalankan program melalui terminal:
    ```bash
    python cek_khodam.py
+
+---
+
+##📌 Catatan
+- Program ini hanya untuk hiburan.
+- Setiap kali dijalankan, hasil khodam dan tingkat kekuatan bisa berbeda.
+
+---
+Dibuat oleh Muhammad Fikri
